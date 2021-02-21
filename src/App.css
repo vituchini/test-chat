@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    justify-content: center;
+}
+
+.joinBlock {
+    margin-top: 30vh;
+    display: flex;
+    flex-direction: column;
+}
+.joinBlock input{
+    text-align: center;
+    margin: 5px;
+    height: 30px;
+    width: 20vw;
+}
